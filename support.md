@@ -26,3 +26,13 @@ Wiki.tezosagora.org. 2021. Tezos Energy Consumption - Tezos Agora Wiki. [online]
 
 Marquetti, Izabele and Jhonatam Rodrigues, and Salil S. Desai. "Ecological Impact of Green Computing Using Graphical Processing Units in Molecular Dynamics Simulations," International Journal of Green Computing (IJGC) 9, no.1: 35-48. http://doi.org/10.4018/IJGC.2018010103
 
+https://mirror.xyz/mattdesl.eth
+https://mirror.xyz/mattdesl.eth/6C6Ppi1kUr0cfdLKmz6Na53Vh6sjsxYANcIjHpCWV_Q
+https://mirror.xyz/mattdesl.eth/eUrK8MrRfKFJYVKTwi5F4mCIBJEBOYkZ1qaAiDNblIs
+https://mirror.xyz/mattdesl.eth/2WNUAK_DuQsxj3Ei3CY-IlWyVb8VZzQl0mgvYj3TAjQ
+
+https://kylemcdonald.github.io/ethereum-emissions/
+
+https://arxiv.org/abs/2112.01238
+
+
